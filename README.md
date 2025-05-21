@@ -36,7 +36,7 @@ Solo se necesita **Python 3.x**. No se requieren bibliotecas externas.
 1. Colocá el archivo `fuente.csv` dentro del subdirectorio `fuente/`.
 2. Ejecutá el script:
 
-   ```bash
+ ```bash
    python main.py
 ````
 
